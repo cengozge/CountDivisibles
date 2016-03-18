@@ -1,0 +1,8 @@
+▶big_values3 
+A = 0, B = MAXINT, K in {1,MAXINT} ✘TIMEOUT ERROR 
+running time: >8.00 sec., time limit: 2.86 sec.
+▶ big_values4 
+A, B, K in {1,MAXINT} ✘TIMEOUT ERROR 
+running time: >8.00 sec., time limit: 2.82 sec.
+
+--improve for big values
